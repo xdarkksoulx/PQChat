@@ -1,0 +1,6 @@
+pycryptodome 
+pysocks
+stem
+websockets
+Flask
+requests
